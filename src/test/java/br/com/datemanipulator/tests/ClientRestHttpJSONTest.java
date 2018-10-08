@@ -19,19 +19,8 @@ public class ClientRestHttpJSONTest {
 		assertEquals(retorno, retornoEsperado);
 	
 	}
+	
+	//Testamos localmente o envio via POST não temos webservice publico para teste JSON POST
 
-	@Test
-	public void httpPOSTJSONTeste() {
-		
-		ClientRestHttpJSONImpl clientHttp = new ClientRestHttpJSONImpl("http://localhost:8080/integration/", true, "Authorization", "eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJpbGluayIsImlhdCI6MTUzOTAyOTQ0OCwiZXhwIjoxNTM5MDMzMDQ4fQ.yJrOmglubb7gsj0dlrOyaieR64RLsnHA64e3-x6HWghSTCleihzL3ZMe2Mp9qHgmoql-DZEMy0RAedfgqgl1Kg", true);
-		
-		String retorno = clientHttp.httpPOST("/single-sms", "{\r\n" + 
-				"	\"to\" : 34991957511,\r\n" + 
-				"	\"message\": \"Teste\"}");
-		
-		System.out.println(retorno);
-		
-		
-	}
 	
 }

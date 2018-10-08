@@ -10,9 +10,9 @@
 	<description>Projeto para disponibilizar trativas comuns em softwares, para agilizar e facilitar o desenvolvimento. </description>
 
 	<properties>
-		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<java.version>1.8</java.version>
+		<project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>ISO-8859-1</project.reporting.outputEncoding>
+		<java.version>1.8.0</java.version>
 	</properties>
 
 	<dependencies>

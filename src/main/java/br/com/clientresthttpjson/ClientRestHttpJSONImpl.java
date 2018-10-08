@@ -84,7 +84,6 @@ public class ClientRestHttpJSONImpl implements IClienteRestHttpJSON{
 	 *            Final da URL de conexão.
 	 * @return
 	 */
-	@Override
 	public String httpGET(String finalUrl) {
 		
 		try {
@@ -162,7 +161,6 @@ public class ClientRestHttpJSONImpl implements IClienteRestHttpJSON{
 	 *            Json que será enviado para o Url/End_Point
 	 * @return
 	 */
-	@Override
 	public String httpPOST(String finalUrl, String jsonToSend) {
 		
 		try {

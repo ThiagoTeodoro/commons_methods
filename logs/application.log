@@ -493,3 +493,4 @@
 2018-10-08 17:14:13,974 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:195) [ERROR] Falha : HTTP codigo do erro : 415
 2018-10-08 17:16:28,069 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:117) [DEBUG] Conexão realixada com sucesso!
 2018-10-08 17:16:28,528 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:202) [INFO] Conexão realizada com sucesso!
+2018-10-08 18:15:07,174 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:116) [DEBUG] Conexão realixada com sucesso!
