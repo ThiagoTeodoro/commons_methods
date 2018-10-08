@@ -1,0 +1,495 @@
+2018-10-04 10:59:37,881 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Thu Oct 04 10:59:37 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 10:59:37,886 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [04/10/2018].
+2018-10-04 10:59:37,886 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 10:59:37,887 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+2018-10-04 10:59:37,891 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 10:59:37,892 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 10:59:37,893 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 10:59:37,894 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 10:59:37,898 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 10:59:37,899 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 10:59:37,900 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 10:59:37,901 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+2018-10-04 10:59:37,901 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 10:59:37,902 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+2018-10-04 10:59:37,902 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 10:59:37,902 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+2018-10-04 10:59:37,907 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 10:59:37,908 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+-2018-10-04 11:01:17,031 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Thu Oct 04 11:01:17 BRT 2018], pattern [dd/MM/yyyy].
+-2018-10-04 11:01:17,036 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [04/10/2018].
+-2018-10-04 11:01:17,036 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+-2018-10-04 11:01:17,037 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+-2018-10-04 11:01:17,039 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+-2018-10-04 11:01:17,040 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+-2018-10-04 11:01:17,041 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+-2018-10-04 11:01:17,042 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+-2018-10-04 11:01:17,045 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+-2018-10-04 11:01:17,045 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+-2018-10-04 11:01:17,046 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+-2018-10-04 11:01:17,047 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+-2018-10-04 11:01:17,048 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+-2018-10-04 11:01:17,048 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+-2018-10-04 11:01:17,050 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+-2018-10-04 11:01:17,050 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+-2018-10-04 11:01:17,056 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+-2018-10-04 11:01:17,057 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 11:02:04,103 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Thu Oct 04 11:02:04 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:04,107 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [04/10/2018].
+2018-10-04 11:02:04,108 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:04,108 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+2018-10-04 11:02:04,111 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:04,111 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 11:02:04,112 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:04,113 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 11:02:04,116 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:04,117 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 11:02:04,117 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:04,118 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+2018-10-04 11:02:04,118 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:04,119 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+2018-10-04 11:02:04,119 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:04,120 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+2018-10-04 11:02:04,125 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:04,127 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 11:02:26,799 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Thu Oct 04 11:02:26 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:26,806 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [04/10/2018].
+2018-10-04 11:02:26,807 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:26,808 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+2018-10-04 11:02:26,810 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:26,811 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 11:02:26,819 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:26,821 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 11:02:26,829 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:26,830 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 11:02:26,830 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:26,832 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+2018-10-04 11:02:26,833 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:26,834 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+2018-10-04 11:02:26,835 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:26,837 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+2018-10-04 11:02:26,847 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:02:26,848 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 11:12:01,565 (br.com.datemanipulator.DateManipulatorImpl.main:126) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern[dd/MM/yyyy]
+2018-10-04 11:12:01,575 (br.com.datemanipulator.DateManipulatorImpl.main:131) [DEBUG] Retorno da função dateToString : [01/10/2018]
+2018-10-04 11:12:01,580 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [BR].
+2018-10-04 11:12:01,581 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 11:12:01,581 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Thu Oct 04 11:12:01 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:12:01,582 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [04/10/2018].
+2018-10-04 11:12:01,582 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:12:01,583 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+2018-10-04 11:12:01,583 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [04/10/2018], patternData [BR].
+2018-10-04 11:12:01,584 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Thu Oct 04 00:00:00 BRT 2018].
+2018-10-04 11:12:01,584 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [BR].
+2018-10-04 11:12:01,585 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 11:12:01,586 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [BR].
+2018-10-04 11:12:01,586 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 11:12:01,587 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [BR].
+2018-10-04 11:12:01,588 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 11:12:01,591 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:12:01,592 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 11:12:01,593 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:12:01,594 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 11:12:01,595 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [2018-10-12], patternData [SQL].
+2018-10-04 11:12:01,595 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 11:12:01,596 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [16/10/2018], patternData [BR].
+2018-10-04 11:12:01,596 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 16 00:00:00 BRT 2018].
+2018-10-04 11:12:01,597 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [30/10/2018], patternData [BR].
+2018-10-04 11:12:01,597 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 30 00:00:00 BRT 2018].
+2018-10-04 11:12:01,598 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [BR].
+2018-10-04 11:12:01,598 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 11:12:01,599 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [BR].
+2018-10-04 11:12:01,599 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 11:12:01,600 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:12:01,600 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 11:12:01,601 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:12:01,601 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+2018-10-04 11:12:01,601 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:12:01,602 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+2018-10-04 11:12:01,602 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:12:01,603 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+2018-10-04 11:12:01,603 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [01/10/2018], patternData [BR].
+2018-10-04 11:12:01,604 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-04 11:12:01,605 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 11:12:01,606 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:29:57,827 (br.com.datemanipulator.DateManipulatorImpl.main:126) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern[dd/MM/yyyy].
+2018-10-04 13:29:57,836 (br.com.datemanipulator.DateManipulatorImpl.main:131) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:29:57,841 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,842 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 13:29:57,842 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Thu Oct 04 13:29:57 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:29:57,843 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [04/10/2018].
+2018-10-04 13:29:57,843 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:29:57,844 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+2018-10-04 13:29:57,844 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [04/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,845 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Thu Oct 04 00:00:00 BRT 2018].
+2018-10-04 13:29:57,845 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,846 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 13:29:57,847 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,848 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:29:57,850 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,851 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:29:57,859 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [2], holidays[].
+2018-10-04 13:29:57,859 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:29:57,860 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 13:29:57,860 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018]
+2018-10-04 13:29:57,861 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:29:57,862 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:29:57,863 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [2018-10-12], patternData [yyyy-MM-dd].
+2018-10-04 13:29:57,863 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:29:57,864 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [16/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,865 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 16 00:00:00 BRT 2018].
+2018-10-04 13:29:57,865 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [30/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,866 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 30 00:00:00 BRT 2018].
+2018-10-04 13:29:57,867 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,867 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:29:57,868 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,868 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:29:57,869 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [1], holidays[Fri Oct 12 00:00:00 BRT 2018Tue Oct 16 00:00:00 BRT 2018Tue Oct 30 00:00:00 BRT 2018].
+2018-10-04 13:29:57,869 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:29:57,870 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 13:29:57,870 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:29:57,871 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+2018-10-04 13:29:57,871 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:29:57,872 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+2018-10-04 13:29:57,872 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:29:57,872 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+2018-10-04 13:29:57,873 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018]
+2018-10-04 13:29:57,874 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [01/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:29:57,874 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-04 13:29:57,876 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:29:57,877 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:29:57,878 (br.com.datemanipulator.DateManipulatorImpl.main:159) [DEBUG] Parâmetros de entrada da função stringToDate : date [01/10/2018], pattern[dd/MM/yyyy].
+2018-10-04 13:29:57,879 (br.com.datemanipulator.DateManipulatorImpl.main:164) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-04 13:32:31,153 (br.com.datemanipulator.DateManipulatorImpl.main:126) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern[dd/MM/yyyy].
+2018-10-04 13:32:31,164 (br.com.datemanipulator.DateManipulatorImpl.main:131) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:32:31,171 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,174 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 13:32:31,175 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Thu Oct 04 13:32:31 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:32:31,177 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [04/10/2018].
+2018-10-04 13:32:31,177 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:32:31,181 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+2018-10-04 13:32:31,184 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [04/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,185 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Thu Oct 04 00:00:00 BRT 2018].
+2018-10-04 13:32:31,186 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,187 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 13:32:31,188 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,189 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:32:31,190 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,191 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:32:31,202 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [2], holidays[].
+2018-10-04 13:32:31,203 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:32:31,204 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 13:32:31,205 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018]
+2018-10-04 13:32:31,206 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:32:31,207 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:32:31,209 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [2018-10-12], patternData [yyyy-MM-dd].
+2018-10-04 13:32:31,209 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:32:31,210 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [16/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,212 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 16 00:00:00 BRT 2018].
+2018-10-04 13:32:31,213 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [30/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,214 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 30 00:00:00 BRT 2018].
+2018-10-04 13:32:31,215 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,216 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:32:31,216 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,217 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:32:31,218 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [1], holidays[Fri Oct 12 00:00:00 BRT 2018, Tue Oct 16 00:00:00 BRT 2018, Tue Oct 30 00:00:00 BRT 2018, ].
+2018-10-04 13:32:31,218 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:32:31,219 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 13:32:31,220 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:32:31,221 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+2018-10-04 13:32:31,222 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:32:31,222 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+2018-10-04 13:32:31,223 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:32:31,224 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+2018-10-04 13:32:31,224 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018]
+2018-10-04 13:32:31,225 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [01/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:32:31,225 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-04 13:32:31,227 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:32:31,227 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:32:31,228 (br.com.datemanipulator.DateManipulatorImpl.main:159) [DEBUG] Parâmetros de entrada da função stringToDate : date [01/10/2018], pattern[dd/MM/yyyy].
+2018-10-04 13:32:31,228 (br.com.datemanipulator.DateManipulatorImpl.main:164) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-04 13:34:35,949 (br.com.datemanipulator.DateManipulatorImpl.main:126) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern[dd/MM/yyyy].
+2018-10-04 13:34:35,959 (br.com.datemanipulator.DateManipulatorImpl.main:131) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:34:35,968 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:35,970 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 13:34:35,971 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Thu Oct 04 13:34:35 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:34:35,971 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [04/10/2018].
+2018-10-04 13:34:35,972 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:34:35,973 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+2018-10-04 13:34:35,974 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [04/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:35,975 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Thu Oct 04 00:00:00 BRT 2018].
+2018-10-04 13:34:35,976 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:35,977 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 13:34:35,978 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:35,979 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:34:35,982 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:35,985 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:34:35,991 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [2], holidays[].
+2018-10-04 13:34:35,992 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:34:35,992 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 13:34:35,993 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018]
+2018-10-04 13:34:35,994 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:34:35,995 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:34:35,996 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [2018-10-12], patternData [yyyy-MM-dd].
+2018-10-04 13:34:35,997 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:34:35,997 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [16/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:35,998 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 16 00:00:00 BRT 2018].
+2018-10-04 13:34:35,999 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [30/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:36,000 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 30 00:00:00 BRT 2018].
+2018-10-04 13:34:36,000 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:36,001 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:34:36,001 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:36,002 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:34:36,003 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [1], holidays[Fri Oct 12 00:00:00 BRT 2018, Tue Oct 16 00:00:00 BRT 2018, Tue Oct 30 00:00:00 BRT 2018, Tue Oct 30 00:00:00 BRT 2018].
+2018-10-04 13:34:36,003 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:34:36,004 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 13:34:36,004 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:34:36,005 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+2018-10-04 13:34:36,006 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:34:36,006 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+2018-10-04 13:34:36,007 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:34:36,008 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+2018-10-04 13:34:36,009 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018]
+2018-10-04 13:34:36,010 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [01/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:34:36,011 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-04 13:34:36,013 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:34:36,013 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:34:36,014 (br.com.datemanipulator.DateManipulatorImpl.main:159) [DEBUG] Parâmetros de entrada da função stringToDate : date [01/10/2018], pattern[dd/MM/yyyy].
+2018-10-04 13:34:36,015 (br.com.datemanipulator.DateManipulatorImpl.main:164) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-04 13:59:33,857 (br.com.datemanipulator.DateManipulatorImpl.main:126) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern[dd/MM/yyyy].
+2018-10-04 13:59:33,866 (br.com.datemanipulator.DateManipulatorImpl.main:131) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:59:33,870 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,872 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 13:59:33,872 (br.com.datemanipulator.DateManipulatorImpl.main:325) [DEBUG] Parâmetros de entrada da função verificaVencimento : dataReferencia [Thu Oct 04 13:59:33 BRT 2018], dataVencimento [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 13:59:33,873 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Thu Oct 04 13:59:33 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:59:33,874 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [04/10/2018].
+2018-10-04 13:59:33,874 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:59:33,875 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+2018-10-04 13:59:33,875 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [04/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,876 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Thu Oct 04 00:00:00 BRT 2018].
+2018-10-04 13:59:33,876 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,877 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-04 13:59:33,877 (br.com.datemanipulator.DateManipulatorImpl.main:355) [DEBUG] Retorno da função verificaVencimento : [true]
+2018-10-04 13:59:33,878 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,879 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:59:33,885 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,885 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:59:33,886 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [2], holidays[].
+2018-10-04 13:59:33,887 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:59:33,887 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 13:59:33,888 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:59:33,889 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:59:33,889 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:59:33,890 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [2018-10-12], patternData [yyyy-MM-dd].
+2018-10-04 13:59:33,891 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:59:33,892 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [16/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,893 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 16 00:00:00 BRT 2018].
+2018-10-04 13:59:33,893 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [30/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,894 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 30 00:00:00 BRT 2018].
+2018-10-04 13:59:33,895 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,895 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:59:33,896 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,897 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-04 13:59:33,897 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [1], holidays[Fri Oct 12 00:00:00 BRT 2018, Tue Oct 16 00:00:00 BRT 2018, Tue Oct 30 00:00:00 BRT 2018, Tue Oct 30 00:00:00 BRT 2018].
+2018-10-04 13:59:33,898 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:59:33,899 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-04 13:59:33,899 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:59:33,900 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+2018-10-04 13:59:33,900 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:59:33,901 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+2018-10-04 13:59:33,902 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:59:33,902 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+2018-10-04 13:59:33,903 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-04 13:59:33,903 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [01/10/2018], patternData [dd/MM/yyyy].
+2018-10-04 13:59:33,904 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-04 13:59:33,905 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-04 13:59:33,906 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-04 13:59:33,907 (br.com.datemanipulator.DateManipulatorImpl.main:159) [DEBUG] Parâmetros de entrada da função stringToDate : date [01/10/2018], pattern[dd/MM/yyyy].
+2018-10-04 13:59:33,907 (br.com.datemanipulator.DateManipulatorImpl.main:164) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-04 14:43:10,027 (br.com.numericmanipulator.NumericManipulatorImpl.main:18) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 14:43:10,034 (br.com.numericmanipulator.NumericManipulatorImpl.main:35) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 14:43:10,034 (br.com.numericmanipulator.NumericManipulatorImpl.main:18) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 14:43:10,035 (br.com.numericmanipulator.NumericManipulatorImpl.main:35) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 14:43:36,110 (br.com.numericmanipulator.NumericManipulatorImpl.main:18) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 14:43:36,118 (br.com.numericmanipulator.NumericManipulatorImpl.main:35) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 14:43:36,118 (br.com.numericmanipulator.NumericManipulatorImpl.main:18) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 14:43:36,119 (br.com.numericmanipulator.NumericManipulatorImpl.main:35) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 14:47:20,061 (br.com.numericmanipulator.NumericManipulatorImpl.main:18) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 14:47:20,068 (br.com.numericmanipulator.NumericManipulatorImpl.main:35) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 14:47:20,068 (br.com.numericmanipulator.NumericManipulatorImpl.main:18) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 14:47:20,069 (br.com.numericmanipulator.NumericManipulatorImpl.main:35) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 14:47:20,069 (br.com.numericmanipulator.NumericManipulatorImpl.main:18) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 14:47:20,070 (br.com.numericmanipulator.NumericManipulatorImpl.main:35) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:21:54,192 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:21:54,202 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:21:54,202 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:21:54,203 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:21:54,203 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:21:54,204 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:21:54,206 (br.com.numericmanipulator.NumericManipulatorImpl.main:64) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en]
+2018-10-04 15:21:54,210 (br.com.numericmanipulator.NumericManipulatorImpl.main:72) [DEBUG] Retorno da função formaterInCurrencyExhibition : [50.99]
+2018-10-04 15:21:54,211 (br.com.numericmanipulator.NumericManipulatorImpl.main:64) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:21:54,211 (br.com.numericmanipulator.NumericManipulatorImpl.main:72) [DEBUG] Retorno da função formaterInCurrencyExhibition : [1.989,9]
+2018-10-04 15:24:07,471 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:24:07,479 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:24:07,480 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:24:07,481 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:24:07,481 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:24:07,482 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:24:07,484 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en]
+2018-10-04 15:24:07,492 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [¤50.99]
+2018-10-04 15:24:07,493 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:24:07,494 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:24:43,960 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:24:43,967 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:24:43,967 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:24:43,968 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:24:43,968 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:24:43,968 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:24:43,970 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en_CA]
+2018-10-04 15:24:43,975 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$50.99]
+2018-10-04 15:24:43,976 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:24:43,977 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:25:39,160 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:25:39,167 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:25:39,168 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:25:39,168 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:25:39,168 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:25:39,169 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:25:39,171 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en_CA]
+2018-10-04 15:25:39,176 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$50.99]
+2018-10-04 15:25:39,176 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:25:39,177 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:25:39,177 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [234.0], locale [ja_JP]
+2018-10-04 15:25:39,180 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [?234]
+2018-10-04 15:25:52,581 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:25:52,588 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:25:52,589 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:25:52,589 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:25:52,590 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:25:52,590 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:25:52,592 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en_CA]
+2018-10-04 15:25:52,597 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$50.99]
+2018-10-04 15:25:52,597 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:25:52,598 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:25:52,599 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [234.0], locale [ja]
+2018-10-04 15:25:52,600 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [¤ 234.00]
+2018-10-04 15:26:18,961 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:26:18,967 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:26:18,968 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:26:18,968 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:26:18,969 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:26:18,969 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:26:18,971 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en_CA]
+2018-10-04 15:26:18,976 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$50.99]
+2018-10-04 15:26:18,977 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:26:18,977 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:26:18,977 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [234.0], locale [en_US]
+2018-10-04 15:26:18,979 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$234.00]
+2018-10-04 15:27:45,158 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:27:45,166 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:27:45,166 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:27:45,167 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:27:45,167 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:27:45,168 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:27:45,169 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en_US]
+2018-10-04 15:27:45,175 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$50.99]
+2018-10-04 15:27:45,175 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:27:45,176 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:27:45,176 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [234.0], locale [eng_GBR]
+2018-10-04 15:27:45,178 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [¤ 234.00]
+2018-10-04 15:28:17,739 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:28:17,747 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:28:17,748 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:28:17,749 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:28:17,749 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:28:17,750 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:28:17,752 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en_US]
+2018-10-04 15:28:17,759 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$50.99]
+2018-10-04 15:28:17,760 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:28:17,760 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:28:17,761 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [234.0], locale [zh_CN]
+2018-10-04 15:28:17,766 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [?234.00]
+2018-10-04 15:28:29,282 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:28:29,293 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:28:29,293 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:28:29,294 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:28:29,295 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:28:29,296 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:28:29,298 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en_US]
+2018-10-04 15:28:29,304 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$50.99]
+2018-10-04 15:28:29,305 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:28:29,306 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:28:29,306 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [234.0], locale [de]
+2018-10-04 15:28:29,308 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [¤ 234,00]
+2018-10-04 15:28:46,518 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:28:46,525 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:28:46,526 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:28:46,526 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:28:46,526 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:28:46,527 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:28:46,528 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en_US]
+2018-10-04 15:28:46,534 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$50.99]
+2018-10-04 15:28:46,534 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:28:46,535 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:28:46,536 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [234.0], locale [it_IT]
+2018-10-04 15:28:46,540 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [€ 234,00]
+2018-10-04 15:30:54,543 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [R$ 34,80]
+2018-10-04 15:30:54,550 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [34.8].
+2018-10-04 15:30:54,550 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [52,00]
+2018-10-04 15:30:54,551 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [52.0].
+2018-10-04 15:30:54,551 (br.com.numericmanipulator.NumericManipulatorImpl.main:22) [DEBUG] Parâmetro de entrada da função stringToDouble : [5.00]
+2018-10-04 15:30:54,552 (br.com.numericmanipulator.NumericManipulatorImpl.main:37) [DEBUG] Retorno da função stringToDouble : [5.0].
+2018-10-04 15:30:54,553 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [50.99], locale [en_US]
+2018-10-04 15:30:54,559 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [$50.99]
+2018-10-04 15:30:54,560 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [1989.9], locale [pt_BR]
+2018-10-04 15:30:54,560 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [R$ 1.989,90]
+2018-10-04 15:30:54,561 (br.com.numericmanipulator.NumericManipulatorImpl.main:63) [DEBUG] Parâmetros de entrada da função formaterInCurrencyExhibition : numeric [234.0], locale [it_IT]
+2018-10-04 15:30:54,564 (br.com.numericmanipulator.NumericManipulatorImpl.main:69) [DEBUG] Retorno da função formaterInCurrencyExhibition : [€ 234,00]
+2018-10-05 15:20:40,395 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:114) [DEBUG] Conexão realixada com sucesso!
+2018-10-05 15:21:06,243 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:114) [DEBUG] Conexão realixada com sucesso!
+2018-10-05 15:26:32,678 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:28:12,286 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:142) [ERROR] Ocorreu um erro de I/O! Mensagem : [Server returned HTTP response code: 500 for URL: http://10.13.1.46:8080/cobranca-ppgj/app]
+2018-10-05 15:28:42,534 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:30:05,202 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:30:53,125 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:31:33,265 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:32:27,260 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:34:18,970 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:34:18,975 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:160) [ERROR] Ocorreu um erro de I/O! Mensagem : [Server returned HTTP response code: 500 for URL: http://10.13.1.46:8080/cobranca-ppgj/integration/single-sms/101266888]
+2018-10-05 15:35:22,884 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:36:16,951 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:36:48,529 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:38:12,875 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:136) [ERROR] Erro de formação da URL de conexão com o serviço! Mensagem : [unknown protocol: localhost]
+2018-10-05 15:38:29,649 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:39:28,464 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:39:49,742 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:109) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:41:10,747 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:41:29,903 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:43:06,565 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [301], Retorno [Moved Permanently].
+2018-10-05 15:44:02,318 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [404], Retorno [Not Found].
+2018-10-05 15:44:39,721 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [401], Retorno [Unauthorized].
+2018-10-05 15:45:13,830 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:115) [DEBUG] Conexão realixada com sucesso!
+2018-10-05 15:46:22,601 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:115) [DEBUG] Conexão realixada com sucesso!
+2018-10-05 15:50:06,524 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [401], Retorno [Unauthorized].
+2018-10-05 15:51:14,815 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 15:52:47,181 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:34:50,859 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:36:26,125 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:38:31,704 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:41:27,482 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:143) [ERROR] Ocorreu um erro de I/O! Mensagem : [Connection refused: connect]
+2018-10-05 16:41:42,741 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:42:12,690 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:43:36,110 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:43:42,485 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:44:10,062 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:48:58,986 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:110) [ERROR] Falha na requisição HTTP! Código HTTP : [500], Retorno [null].
+2018-10-05 16:50:48,633 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:143) [ERROR] Ocorreu um erro de I/O! Mensagem : [Connection reset]
+2018-10-05 16:51:53,346 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:115) [DEBUG] Conexão realixada com sucesso!
+2018-10-05 16:55:25,750 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:143) [ERROR] Ocorreu um erro de I/O! Mensagem : [http]
+2018-10-05 16:55:30,566 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:115) [DEBUG] Conexão realixada com sucesso!
+2018-10-05 16:56:45,015 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:115) [DEBUG] Conexão realixada com sucesso!
+2018-10-08 17:14:13,838 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:116) [DEBUG] Conexão realixada com sucesso!
+2018-10-08 17:14:13,974 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:195) [ERROR] Falha : HTTP codigo do erro : 415
+2018-10-08 17:16:28,069 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:117) [DEBUG] Conexão realixada com sucesso!
+2018-10-08 17:16:28,528 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:202) [INFO] Conexão realizada com sucesso!
