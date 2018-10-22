@@ -494,3 +494,115 @@
 2018-10-08 17:16:28,069 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:117) [DEBUG] Conexão realixada com sucesso!
 2018-10-08 17:16:28,528 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:202) [INFO] Conexão realizada com sucesso!
 2018-10-08 18:15:07,174 (br.com.clientresthttpjson.ClientRestHttpJSONImpl.main:116) [DEBUG] Conexão realixada com sucesso!
+2018-10-22 10:15:43,758 (br.com.encryption.EncryptionManipulatorImpl.main:20) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 10:15:43,765 (br.com.encryption.EncryptionManipulatorImpl.main:26) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 10:18:59,986 (br.com.datemanipulator.DateManipulatorImpl.main:126) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern[dd/MM/yyyy].
+2018-10-22 10:18:59,999 (br.com.datemanipulator.DateManipulatorImpl.main:131) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-22 10:19:00,010 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,013 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-22 10:19:00,015 (br.com.datemanipulator.DateManipulatorImpl.main:325) [DEBUG] Parâmetros de entrada da função verificaVencimento : dataReferencia [Mon Oct 22 10:19:00 BRT 2018], dataVencimento [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-22 10:19:00,016 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 22 10:19:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-22 10:19:00,017 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [22/10/2018].
+2018-10-22 10:19:00,018 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 02 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-22 10:19:00,019 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [02/10/2018].
+2018-10-22 10:19:00,020 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [22/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,021 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 22 00:00:00 BRT 2018].
+2018-10-22 10:19:00,022 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [02/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,023 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 02 00:00:00 BRT 2018].
+2018-10-22 10:19:00,024 (br.com.datemanipulator.DateManipulatorImpl.main:355) [DEBUG] Retorno da função verificaVencimento : [true]
+2018-10-22 10:19:00,025 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,027 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-22 10:19:00,031 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,032 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-22 10:19:00,035 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [2], holidays[].
+2018-10-22 10:19:00,036 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-22 10:19:00,037 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-22 10:19:00,038 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-22 10:19:00,041 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-22 10:19:00,042 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-22 10:19:00,043 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [2018-10-12], patternData [yyyy-MM-dd].
+2018-10-22 10:19:00,045 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-22 10:19:00,045 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [16/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,046 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 16 00:00:00 BRT 2018].
+2018-10-22 10:19:00,047 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [30/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,048 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Tue Oct 30 00:00:00 BRT 2018].
+2018-10-22 10:19:00,049 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [15/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,049 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-22 10:19:00,050 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [12/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,052 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Fri Oct 12 00:00:00 BRT 2018].
+2018-10-22 10:19:00,052 (br.com.datemanipulator.DateManipulatorImpl.main:251) [DEBUG] Parâmetros de entrada da função dayUtilAdd : data [Fri Oct 12 00:00:00 BRT 2018], numberOfDayAdd [1], holidays[Fri Oct 12 00:00:00 BRT 2018, Tue Oct 16 00:00:00 BRT 2018, Tue Oct 30 00:00:00 BRT 2018, Tue Oct 30 00:00:00 BRT 2018].
+2018-10-22 10:19:00,053 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 15 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-22 10:19:00,054 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [15/10/2018].
+2018-10-22 10:19:00,055 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Fri Oct 12 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-22 10:19:00,056 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [12/10/2018].
+2018-10-22 10:19:00,056 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 16 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-22 10:19:00,057 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [16/10/2018].
+2018-10-22 10:19:00,058 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Tue Oct 30 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-22 10:19:00,059 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [30/10/2018].
+2018-10-22 10:19:00,060 (br.com.datemanipulator.DateManipulatorImpl.main:296) [DEBUG] Retorno da função dayUtilAdd : [Mon Oct 15 00:00:00 BRT 2018].
+2018-10-22 10:19:00,061 (br.com.datemanipulator.DateManipulatorImpl.main:92) [DEBUG] Parâmetros de entrada da função stringToDate : data [01/10/2018], patternData [dd/MM/yyyy].
+2018-10-22 10:19:00,061 (br.com.datemanipulator.DateManipulatorImpl.main:97) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-22 10:19:00,065 (br.com.datemanipulator.DateManipulatorImpl.main:59) [DEBUG] Parâmetros de entrada da função dateToString : date [Mon Oct 01 00:00:00 BRT 2018], pattern [dd/MM/yyyy].
+2018-10-22 10:19:00,066 (br.com.datemanipulator.DateManipulatorImpl.main:64) [DEBUG] Retorno da função dateToString : [01/10/2018].
+2018-10-22 10:19:00,068 (br.com.datemanipulator.DateManipulatorImpl.main:159) [DEBUG] Parâmetros de entrada da função stringToDate : date [01/10/2018], pattern[dd/MM/yyyy].
+2018-10-22 10:19:00,070 (br.com.datemanipulator.DateManipulatorImpl.main:164) [DEBUG] Retorno da função stringToDate : [Mon Oct 01 00:00:00 BRT 2018].
+2018-10-22 10:19:11,837 (br.com.encryption.EncryptionManipulatorImpl.main:20) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 10:19:11,843 (br.com.encryption.EncryptionManipulatorImpl.main:26) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 10:34:11,830 (br.com.encryption.EncryptionManipulatorImpl.main:20) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 10:34:11,838 (br.com.encryption.EncryptionManipulatorImpl.main:26) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 10:34:11,840 (br.com.encryption.EncryptionManipulatorImpl.main:41) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 10:34:11,842 (br.com.encryption.EncryptionManipulatorImpl.main:48) [DEBUG] String decodifica : [Thiago]
+2018-10-22 11:11:08,416 (br.com.encryption.EncryptionManipulatorImpl.main:67) [DEBUG] String recebida para 'Encoding' : [Thiago]
+2018-10-22 11:11:08,439 (br.com.encryption.EncryptionManipulatorImpl.main:79) [DEBUG] MD5 gerado :  [@—Ä«8­Z¶ÝB0˜wMæ]
+2018-10-22 11:11:08,443 (br.com.encryption.EncryptionManipulatorImpl.main:24) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 11:11:08,444 (br.com.encryption.EncryptionManipulatorImpl.main:30) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 11:11:08,445 (br.com.encryption.EncryptionManipulatorImpl.main:45) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 11:11:08,447 (br.com.encryption.EncryptionManipulatorImpl.main:52) [DEBUG] String decodifica : [Thiago]
+2018-10-22 11:12:48,732 (br.com.encryption.EncryptionManipulatorImpl.main:67) [DEBUG] String recebida para 'Encoding' : [Thiago]
+2018-10-22 11:12:48,756 (br.com.encryption.EncryptionManipulatorImpl.main:77) [DEBUG] MD5 gerado :  [[B@1175e2db]
+2018-10-22 11:12:48,758 (br.com.encryption.EncryptionManipulatorImpl.main:24) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 11:12:48,760 (br.com.encryption.EncryptionManipulatorImpl.main:30) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 11:12:48,762 (br.com.encryption.EncryptionManipulatorImpl.main:45) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 11:12:48,763 (br.com.encryption.EncryptionManipulatorImpl.main:52) [DEBUG] String decodifica : [Thiago]
+2018-10-22 11:14:19,161 (br.com.encryption.EncryptionManipulatorImpl.main:68) [DEBUG] String recebida para 'Encoding' : [Thiago]
+2018-10-22 11:14:19,186 (br.com.encryption.EncryptionManipulatorImpl.main:80) [DEBUG] MD5 gerado :  [@??8?Z??B0?wM?]
+2018-10-22 11:14:19,189 (br.com.encryption.EncryptionManipulatorImpl.main:25) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 11:14:19,190 (br.com.encryption.EncryptionManipulatorImpl.main:31) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 11:14:19,192 (br.com.encryption.EncryptionManipulatorImpl.main:46) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 11:14:19,193 (br.com.encryption.EncryptionManipulatorImpl.main:53) [DEBUG] String decodifica : [Thiago]
+2018-10-22 11:17:57,927 (br.com.encryption.EncryptionManipulatorImpl.main:68) [DEBUG] String recebida para 'Encoding' : [Thiago]
+2018-10-22 11:17:57,955 (br.com.encryption.EncryptionManipulatorImpl.main:79) [DEBUG] MD5 gerado :  [20itvs9apolldbdna262c7ejf6]
+2018-10-22 11:17:57,957 (br.com.encryption.EncryptionManipulatorImpl.main:25) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 11:17:57,959 (br.com.encryption.EncryptionManipulatorImpl.main:31) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 11:17:57,960 (br.com.encryption.EncryptionManipulatorImpl.main:46) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 11:17:57,964 (br.com.encryption.EncryptionManipulatorImpl.main:53) [DEBUG] String decodifica : [Thiago]
+2018-10-22 11:18:11,413 (br.com.encryption.EncryptionManipulatorImpl.main:68) [DEBUG] String recebida para 'Encoding' : [Thiago]
+2018-10-22 11:18:11,483 (br.com.encryption.EncryptionManipulatorImpl.main:79) [DEBUG] MD5 gerado :  [40977fc4ab38ad5ab6dd423098774de6]
+2018-10-22 11:18:11,488 (br.com.encryption.EncryptionManipulatorImpl.main:25) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 11:18:11,489 (br.com.encryption.EncryptionManipulatorImpl.main:31) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 11:18:11,490 (br.com.encryption.EncryptionManipulatorImpl.main:46) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 11:18:11,492 (br.com.encryption.EncryptionManipulatorImpl.main:53) [DEBUG] String decodifica : [Thiago]
+2018-10-22 11:18:28,174 (br.com.encryption.EncryptionManipulatorImpl.main:68) [DEBUG] String recebida para 'Encoding' : [Thiago]
+2018-10-22 11:18:28,201 (br.com.encryption.EncryptionManipulatorImpl.main:79) [DEBUG] MD5 gerado :  [40977fc4ab38ad5ab6dd423098774de6]
+2018-10-22 11:18:28,205 (br.com.encryption.EncryptionManipulatorImpl.main:25) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 11:18:28,206 (br.com.encryption.EncryptionManipulatorImpl.main:31) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 11:18:28,208 (br.com.encryption.EncryptionManipulatorImpl.main:46) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 11:18:28,209 (br.com.encryption.EncryptionManipulatorImpl.main:53) [DEBUG] String decodifica : [Thiago]
+2018-10-22 11:20:57,827 (br.com.encryption.EncryptionManipulatorImpl.main:68) [DEBUG] String recebida para 'Encoding' : [Thiago]
+2018-10-22 11:20:57,862 (br.com.encryption.EncryptionManipulatorImpl.main:79) [DEBUG] MD5 gerado :  [32]
+2018-10-22 11:20:57,865 (br.com.encryption.EncryptionManipulatorImpl.main:25) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 11:20:57,866 (br.com.encryption.EncryptionManipulatorImpl.main:31) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 11:20:57,867 (br.com.encryption.EncryptionManipulatorImpl.main:46) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 11:20:57,869 (br.com.encryption.EncryptionManipulatorImpl.main:53) [DEBUG] String decodifica : [Thiago]
+2018-10-22 11:21:10,746 (br.com.encryption.EncryptionManipulatorImpl.main:68) [DEBUG] String recebida para 'Encoding' : [Thiago]
+2018-10-22 11:21:10,776 (br.com.encryption.EncryptionManipulatorImpl.main:79) [DEBUG] MD5 gerado :  [40977fc4ab38ad5ab6dd423098774de6]
+2018-10-22 11:21:10,779 (br.com.encryption.EncryptionManipulatorImpl.main:25) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 11:21:10,781 (br.com.encryption.EncryptionManipulatorImpl.main:31) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 11:21:10,782 (br.com.encryption.EncryptionManipulatorImpl.main:46) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 11:21:10,783 (br.com.encryption.EncryptionManipulatorImpl.main:53) [DEBUG] String decodifica : [Thiago]
+2018-10-22 11:21:37,060 (br.com.encryption.EncryptionManipulatorImpl.main:68) [DEBUG] String recebida para 'Encoding' : [Thiago]
+2018-10-22 11:21:37,088 (br.com.encryption.EncryptionManipulatorImpl.main:79) [DEBUG] MD5 gerado :  [40977fc4ab38ad5ab6dd423098774de6]
+2018-10-22 11:21:37,091 (br.com.encryption.EncryptionManipulatorImpl.main:25) [DEBUG] String recebida para 'Encriptar' : [Thiago]
+2018-10-22 11:21:37,092 (br.com.encryption.EncryptionManipulatorImpl.main:31) [DEBUG] String após 'Encripitação' : [VGhpYWdv]
+2018-10-22 11:21:37,093 (br.com.encryption.EncryptionManipulatorImpl.main:46) [DEBUG] String recebida para decodificação : [VGhpYWdv]
+2018-10-22 11:21:37,095 (br.com.encryption.EncryptionManipulatorImpl.main:53) [DEBUG] String decodifica : [Thiago]
